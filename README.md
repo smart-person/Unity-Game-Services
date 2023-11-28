@@ -1,3 +1,4 @@
+
 # Unity Gaming Services Use Cases
 
 This Unity Gaming Services (UGS) Samples package contains a collection of samples designed to show you how you can use multiple UGS products to solve common game development challenges. These samples implement typical backend game use cases and game design elements, show how to resolve specific development tasks, and highlight the efficiency you can achieve in your game backend by integrating different UGS packages in your project.
